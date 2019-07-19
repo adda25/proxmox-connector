@@ -1,0 +1,14 @@
+{
+  "name": "proxmox-connector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amedeo Setti <amedeo.setti@trentinosviluppo.it> (http://amedeosetti.com)",
+  "license": "ISC",
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}
